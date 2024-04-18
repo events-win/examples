@@ -1,0 +1,5 @@
+events.win:
+  version: 1
+  developerKey: shhhhhhh
+  sources:
+    - segmentBrowser
